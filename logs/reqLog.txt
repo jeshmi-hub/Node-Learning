@@ -1,0 +1,11 @@
+20230515	13:33:42	f42535a1-51db-4abd-aebd-7d8dedbb3246	/new-page.html	GET
+20230515	13:33:42	41da04a2-50d6-4a40-a02d-c47fa054d3c8	/css/style.css	GET
+20230515	13:33:42	780b1b5f-1e01-4f30-9fe1-f7d9e5321c9b	/img/image.webp	GET
+20230515	13:33:42	baa22f52-369d-4241-bd7c-721e987467c9	/favicon.ico	GET
+20230515	13:35:20	4f4053cf-7a12-45dc-b6c6-e4b7ccb98a95	/new-page.html	GET
+20230515	13:35:20	be985670-fcaa-4869-89d0-3caf9a0b92c6	/favicon.ico	GET
+20230515	13:35:32	b8d84081-5433-4096-b135-8bc66be4990a	/new-page.html	GET
+20230515	13:35:33	ea85cb6e-baba-4a37-a1fa-c001f13b3ab4	/css/style.css	GET
+20230515	13:35:33	7aaf68ab-960f-41fd-9b10-e0d2eb7871eb	/img/image.webp	GET
+20230515	13:37:00	891c7953-cc59-4a4a-aece-20eae3180db1	/	GET
+20230515	13:37:00	892e0d0f-0381-486c-ac26-a647bc6fe4eb	/css/style.css	GET
